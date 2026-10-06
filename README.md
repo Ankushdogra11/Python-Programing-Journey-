@@ -5,7 +5,7 @@ My journey of learning Python through Programming for Engineers — from fundame
 📚 Topics Covered
 
 - Python Fundamentals & Operators
-- Strings & String Manipulation
+- Strings ki & String Manipulation
 - Conditional Statements & Loops
 - Lists, Tuples, Sets & Dictionaries
 - Functions, Lambda & Recursion
